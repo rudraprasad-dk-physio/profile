@@ -8,43 +8,22 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Rudra Prasad D K
+  tagline: Physiotherapist
+  avatar: rudra.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: rudraprasaddk@gmail.com
+  phone: 6363332872
+  linkedin: rudra-prasad-d-k-3a8b5934b
 
   languages:
     title: Languages
     info:
     - idiom: English
-      level: Native
+    - idiom: Kannada
+    - idiom: Hindi
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
@@ -64,29 +43,15 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    A highly motivated and compassionate physiotherapist with a strong foundation in human anatomy, biomechanics, and evidence-based rehabilitation practices. Skilled in assessing, diagnosing, and developing individualized treatment plans to restore physical function, improve mobility, and enhance quality of life for patients across a variety of age groups and conditions.
+    Experienced in managing both acute and chronic musculoskeletal conditions, sports injuries, post-surgical rehabilitation, and neurological disorders. Demonstrates excellent hands-on therapy skills, patient education, and interdisciplinary collaboration to deliver holistic care.
+    Known for a patient-centered approach, strong communication, and a dedication to ongoing professional development. Committed to promoting wellness and prevention through tailored exercise programs, ergonomic advice, and lifestyle modifications.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Bacehlor of Physiotherapy
+    university: Rajiv Gandhi University of Health Sciences
+    time: 2021 - 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,188 +64,214 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Physiotherapy Internship
+    time: JAN - 2025
+    company: Sanjay Gandhi Institute of Trauma and Orthopedics , Bengaluru
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        As a physiotherapist in an orthopedic hospital, you assess and treat patients recovering from surgeries or injuries through hands-on therapy and personalized exercise plans. Collaboration with surgeons and patient education are key aspects of the role. The work is physically demanding but emotionally rewarding as you help patients regain independence and improve quality of life.
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - role: Physiotherapy Internship
+    time: FEB - 2025
+    company: Center of Sport Science (Kanteerava Stadium Bengaluru)
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Working as a sports physiotherapist in a stadium environment has been both challenging and rewarding. During matches, I was responsible for assessing and managing acute injuries on the field, providing immediate care to ensure athlete safety and performance. Pre- and post-game, I conducted warm-up and recovery sessions, including stretching, taping, and soft tissue therapy. The fast-paced, high-pressure setting required quick decision-making, strong communication with coaching staff, and the ability to stay calm under pressure. Being part of the teams success and helping athletes return to play safely has made it a fulfilling experience.
+  - role: Physiotherapy Internship
+    time: MARCH - 2025
+    company: SDS Tuberculosis Research Center & Rajiv Gandhi Institute of Chest Diseases
+    details: |
+      Working as a physiotherapist in a chest disease hospital provided valuable experience in managing patients with various respiratory conditions such as COPD, asthma, bronchiectasis, and post-COVID complications. My role involved performing chest physiotherapy techniques like percussion, vibration, postural drainage, and breathing exercises to improve lung function and secretion clearance. I also guided patients through pulmonary rehabilitation programs aimed at enhancing their endurance and quality of life. Collaborating closely with doctors, nurses, and respiratory therapists, I learned the importance of a multidisciplinary approach in managing chronic respiratory diseases.
+  - role: Physiotherapy Internship
+    time: APRIL - 2025
+    company: National Institute of Mental Health and Neuro-Sciences
+    details: |
+      Completed a clinical internship at NIMHANS, gaining valuable exposure to neuro-rehabilitation and psychiatric physiotherapy. Worked under the guidance of experienced therapists in managing patients with conditions such as stroke, traumatic brain injury, spinal cord injuries, Parkinson’s disease, and cerebral palsy. Assisted in assessment, treatment planning, and execution of physiotherapy protocols, including neurodevelopmental techniques and functional training. Developed skills in patient handling, interdisciplinary collaboration, and documentation within a highly specialized healthcare setting.
+  - role: Physiotherapy Internship
+    time: 1-MAY-2025 to 15-MAY-2025
+    company: Bengaluru Medical college and Research Institute
+    details: |
+      During my internship at BMCRI, I had the opportunity to gain hands-on experience in both inpatient and outpatient physiotherapy services. I worked alongside experienced physiotherapists and medical professionals in departments such as orthopedics, neurology, cardiopulmonary, and intensive care units.    My responsibilities included assisting in patient assessments, formulating rehabilitation plans, conducting therapeutic exercises, and monitoring patient progress. I also participated in post-operative care and rehabilitation for patients with musculoskeletal and neurological conditions.
+      The internship enhanced my clinical reasoning, communication, and patient-handling skills, and gave me a deeper understanding of multidisciplinary teamwork in a hospital setting. It was a valuable and enriching experience that strengthened my confidence and passion for the field of physiotherapy.
+  - role: Physiotherapy Internship
+    time: 15-MAY-2025 to 31-MAY-2025
+    company: Bowring and Lady Curzon Hospital
+    details: |
+      During my internship at Bowring and Lady Curzon Hospital, I gained hands-on clinical experience in assessing, diagnosing, and managing a variety of musculoskeletal, neurological, and cardiopulmonary conditions. I worked closely with senior physiotherapists and multidisciplinary teams in both inpatient and outpatient departments. My responsibilities included assisting with patient evaluations, developing rehabilitation plans, and administering therapeutic exercises and modalities. This experience enhanced my clinical reasoning, patient communication, and practical skills, and gave me valuable exposure to a diverse patient population in a busy hospital setting.
+  - role: Physiotherapy Internship
+    time: JUNE-2025
+    company: Sri Jayadeva Institute of Cardiovascular Sciences and Research
+    details: |
+      As a physiotherapy intern at a heart specialty hospital, I was actively involved in the rehabilitation of patients with various cardiac conditions, including post-operative cardiac surgeries, myocardial infarctions, and congestive heart failure. I assisted in conducting cardiopulmonary assessments and guided patients through tailored exercise programs as part of Phase I and Phase II cardiac rehabilitation. I also educated patients on breathing exercises, lifestyle modifications, and energy conservation techniques. This internship helped strengthen my knowledge of cardiac physiotherapy protocols and improve my ability to manage patients in both acute and recovery phases.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+# certifications:
+#   title: Certifications
+#   list:
+#   - name: CV Builder
+#     start: 2020
+#     end: 2021
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.google.com
+#     credentialname: Google
+#     details: |
+#       Details about cert. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#       Praesent venenatis erat non augue suscipit consectetur.
+
+#       Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#       fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#       justo diam viverra velit, sed rhoncus leo leo eu justo.
+#       Suspendisse placerat risus ante, sed porta nisi blandit at.
+#   - name: Git learning
+#     start: 2019
+#     end:
+#     organization: Microsoft
+#     credentialid: 111-222
+#     credentialurl: www.github.com
+#     credentialname: Github
+#     details: |
+#       Older certification. Lorem ipsum dolor sit amet, consectetur
+#       adipiscing elit.
+#       Nullam eget orci purus. Nullam ultrices neque nibh.
+#       Aenean fermentum, felis vulputate suscipit accumsan,
+#       sem enim bibendum augue, sed convallis arcu lacus at dui.
+#       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: Theraptic modaluties
+  # intro: >
+  #   You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Manual Therapy
+    details: |
+      Hands-on techniques used to manipulate, mobilize, and massage body tissues.
+      - Joint mobilization and manipulation
+      - Soft tissue massage
+      - Myofascial release
+      - Trigger point therapy
+      - Lymphatic drainage
+      - Muscle energy techniques (METs)
+  - title: Therapeutic Exercise
+    details: |
+      Programs designed to improve strength, flexibility, endurance, balance, and coordination.
+      - Stretching and strengthening exercises
+      - Core stability and posture correction      
+      - Balance and proprioception training
+      - Functional retraining (e.g., gait training, sit-to-stand)
+      - Neuromuscular re-education
+  - title: Electrotherapy / Physical Modalities
+    details: |
+      Use of electrical or thermal devices to reduce pain and inflammation or stimulate muscles.
+      - TENS (Transcutaneous Electrical Nerve Stimulation)
+      - IFT (Interferential Therapy)
+      - Ultrasound therapy
+      - Electrical muscle stimulation (EMS)
+      - Cryotherapy (cold packs, ice massage)
+      - Thermotherapy (hot packs, infrared, paraffin wax)
+  - title: Neurological Rehabilitation
+    details: |
+      Programs designed to improve cognitive function, motor control, and overall quality of life and Specialized therapy for patients with neurological conditions.
+      - Bobath technique
+      - PNF (Proprioceptive Neuromuscular Facilitation)
+      - Mirror therapy
+      - Balance and coordination retraining
+      - Functional electrical stimulation (FES)
+      - Gait re-education
+  - title: Sports and Orthopedic Rehabilitation
+    details: |
+      Focused on recovery from injuries and optimizing performance 
+      - Retum-to-sport rehab protocols
+      - Kinesio taping
+      - Dry needling
+      - Agility and plyometric training
+      - Manual therapy for joint dysfunctions
+      - Sport-specific training
+  - title: Postural & Ergonomic Training
+    details: |
+      Helps in correcting posture and preventing workplace injuries.
+      - Postural re-education
+      - Ergonomic advice for workstations
+      - Body mechanics training
+  - title: Specialized Therapies
+    details: |
+      - Women's health physiotherapy (e.g., pelvic floor therapy, pre/postnatal care)
+      - Pediatric physiotherapy
+      - Geriatric physiotherapy
+      - Cardiorespiratory therapy (e.g., chest physiotherapy, pulmonary rehab)
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#   title: Theraptic modaluties
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+#       He is a great employee!
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+# skills:
+#   title: Theraptic modaluties
 
-      He is a great employee!
+#   toolset:
+#   - name: Python & Django
+#     level: 98%
 
-skills:
-  title: Skills &amp; Proficiency
+#   - name: Javascript & jQuery
+#     level: 98%
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+#   - name: Angular
+#     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+#   - name: HTML5 & CSS
+#     level: 95%
 
-  - name: Angular
-    level: 98%
+#   - name: Ruby on Rails
+#     level: 85%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+#   - name: Sketch & Photoshop
+#     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/shreyas-b-r-153641244/" target="_blank" rel="nofollow">Shreyas B R</a>
